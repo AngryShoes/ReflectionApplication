@@ -1,0 +1,14 @@
+D:\ROOT\BookStore\DBInterface\MyReflection\bin\Debug\MyReflection.exe.config
+D:\ROOT\BookStore\DBInterface\MyReflection\bin\Debug\MyReflection.exe
+D:\ROOT\BookStore\DBInterface\MyReflection\bin\Debug\MyReflection.pdb
+D:\ROOT\BookStore\DBInterface\MyReflection\obj\Debug\MyReflection.exe
+D:\ROOT\BookStore\DBInterface\MyReflection\obj\Debug\MyReflection.pdb
+D:\ROOT\BookStore\DBInterface\MyReflection\bin\Debug\DBInterface.dll
+D:\ROOT\BookStore\DBInterface\MyReflection\bin\Debug\MySql.dll
+D:\ROOT\BookStore\DBInterface\MyReflection\bin\Debug\SqlServer.dll
+D:\ROOT\BookStore\DBInterface\MyReflection\bin\Debug\DBInterface.pdb
+D:\ROOT\BookStore\DBInterface\MyReflection\bin\Debug\MySql.pdb
+D:\ROOT\BookStore\DBInterface\MyReflection\bin\Debug\SqlServer.pdb
+D:\ROOT\BookStore\DBInterface\MyReflection\obj\Debug\MyReflection.csprojResolveAssemblyReference.cache
+D:\ROOT\BookStore\DBInterface\MyReflection\bin\Debug\Model.dll
+D:\ROOT\BookStore\DBInterface\MyReflection\bin\Debug\Model.pdb

@@ -1,0 +1,7 @@
+D:\ROOT\BookStore\DBInterface\MySql\bin\Debug\MySql.dll
+D:\ROOT\BookStore\DBInterface\MySql\bin\Debug\MySql.pdb
+D:\ROOT\BookStore\DBInterface\MySql\bin\Debug\DBInterface.dll
+D:\ROOT\BookStore\DBInterface\MySql\bin\Debug\DBInterface.pdb
+D:\ROOT\BookStore\DBInterface\MySql\obj\Debug\MySql.csprojResolveAssemblyReference.cache
+D:\ROOT\BookStore\DBInterface\MySql\obj\Debug\MySql.dll
+D:\ROOT\BookStore\DBInterface\MySql\obj\Debug\MySql.pdb

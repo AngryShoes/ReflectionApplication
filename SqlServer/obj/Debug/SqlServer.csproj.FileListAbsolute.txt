@@ -1,0 +1,9 @@
+D:\ROOT\BookStore\DBInterface\SqlServer\bin\Debug\SqlServer.dll
+D:\ROOT\BookStore\DBInterface\SqlServer\bin\Debug\SqlServer.pdb
+D:\ROOT\BookStore\DBInterface\SqlServer\bin\Debug\DBInterface.dll
+D:\ROOT\BookStore\DBInterface\SqlServer\bin\Debug\DBInterface.pdb
+D:\ROOT\BookStore\DBInterface\SqlServer\obj\Debug\SqlServer.dll
+D:\ROOT\BookStore\DBInterface\SqlServer\obj\Debug\SqlServer.pdb
+D:\ROOT\BookStore\DBInterface\SqlServer\obj\Debug\SqlServer.csprojResolveAssemblyReference.cache
+D:\ROOT\BookStore\DBInterface\SqlServer\bin\Debug\Model.dll
+D:\ROOT\BookStore\DBInterface\SqlServer\bin\Debug\Model.pdb

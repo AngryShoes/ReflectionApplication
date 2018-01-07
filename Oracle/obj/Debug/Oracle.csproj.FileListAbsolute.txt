@@ -1,0 +1,6 @@
+D:\ROOT\BookStore\DBInterface\Oracle\bin\Debug\Oracle.dll
+D:\ROOT\BookStore\DBInterface\Oracle\bin\Debug\Oracle.pdb
+D:\ROOT\BookStore\DBInterface\Oracle\bin\Debug\DBInterface.dll
+D:\ROOT\BookStore\DBInterface\Oracle\bin\Debug\DBInterface.pdb
+D:\ROOT\BookStore\DBInterface\Oracle\obj\Debug\Oracle.dll
+D:\ROOT\BookStore\DBInterface\Oracle\obj\Debug\Oracle.pdb
