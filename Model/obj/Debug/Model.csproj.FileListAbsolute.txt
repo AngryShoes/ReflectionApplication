@@ -1,5 +1,0 @@
-D:\ROOT\BookStore\DBInterface\Model\bin\Debug\Model.dll
-D:\ROOT\BookStore\DBInterface\Model\bin\Debug\Model.pdb
-D:\ROOT\BookStore\DBInterface\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
-D:\ROOT\BookStore\DBInterface\Model\obj\Debug\Model.dll
-D:\ROOT\BookStore\DBInterface\Model\obj\Debug\Model.pdb
